@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/icon.png</file>
+	<file>images/orange.png</file>
+	<file>images/gray.png</file>
+	<file>images/grays.png</file>
+	<file>images/grayss.png</file>
+	<file>images/white.png</file>
+	<file>images/whites.png</file>
+	<file>images/black.png</file>
+	<file>images/blacks.png</file>
+	<file>images/brown.png</file>
+	<file>images/darkblue.png</file>
+        <file>images/LoginPage.jpg</file>
+	<file>images/DashboardPage.jpg</file>
+	<file>images/Crud.jpg</file>
+	<file>images/Help.jpg</file>
+    </qresource>
+</RCC>

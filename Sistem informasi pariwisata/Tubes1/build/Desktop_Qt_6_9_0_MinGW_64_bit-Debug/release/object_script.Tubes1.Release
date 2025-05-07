@@ -1,0 +1,13 @@
+release/crudpage.o
+release/dashboardpage.o
+release/help.o
+release/loginpage.o
+release/main.o
+release/mainwindow.o
+release/wisata.o
+release/qrc_Resources.o
+release/moc_crudpage.o
+release/moc_dashboardpage.o
+release/moc_help.o
+release/moc_loginpage.o
+release/moc_mainwindow.o
